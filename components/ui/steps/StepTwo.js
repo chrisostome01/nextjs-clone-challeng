@@ -31,8 +31,8 @@ export default function StepTwo() {
                     </div>
                 </div>
             </div>
-            <div className={`bg-stepFourGradient opacity-.9 blur-159 top-[38%] right-[70%]  h-480 w-480 absolute hidden lg:block -z-20`}></div>
-            <img className="lg:w-296 lg:h-296 w-180 h-180" src="/steps/target.svg"   alt="near icon" />
+            <div className={`bg-stepFourGradient opacity-.9 blur-159 top-[38%] right-[70%]  -z-40  h-480 w-480 absolute hidden lg:block`}></div>
+            <img className="lg:w-296 lg:h-296 w-180 h-180 z-40" src="/steps/target.svg"   alt="near icon" />
         </div>
     )
 }

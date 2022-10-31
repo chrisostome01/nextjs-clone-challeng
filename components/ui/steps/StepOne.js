@@ -15,8 +15,8 @@ export default function StepOne() {
                 </div>
                 <ButtonSecondary label={"Creat wallet"} style="mx-auto lg:mx-0" />
             </div>
-            <div className={`bg-gradient opacity-.9 blur-159 -top-2/3 z-0 left-[70%]  h-480 w-480 absolute hidden lg:block`}></div>
-            <img className="lg:w-296 lg:h-296 w-180 h-180" src="/steps/nearicon.png"   alt="near icon" />
+            <div className={`bg-gradient opacity-.9 blur-159 -top-2/3 -z-40 left-[70%]  h-480 w-480 absolute hidden lg:block`}></div>
+            <img className="lg:w-296 lg:h-296 w-180 h-180 z-40" src="/steps/nearicon.png"   alt="near icon" />
         </div>
     )
 }

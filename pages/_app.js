@@ -1,7 +1,11 @@
 import Head from 'next/head'
+import { useState } from 'react'
+import Model from '../components/model/Model'
 import '../styles/globals.css'
 
 function MyApp({ Component, pageProps }) {
+
+
   return(
     <>
       <Head>

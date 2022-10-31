@@ -11,7 +11,7 @@ export default function Steps() {
         <>
             <Layout>
                 <div className="mt-16" id="learning">
-                    <h1 className="text-center font-medium text-dark-100 text-32 font-primary tracking-[-0.02] leading-7">
+                    <h1 className="text-center font-medium text-dark-100 text-32 lg:text-5xl font-primary tracking-[-0.02] leading-7">
                         Making your NEAR
                         <br/>
                         learning easy.

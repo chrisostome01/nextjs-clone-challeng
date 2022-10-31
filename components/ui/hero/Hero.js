@@ -6,7 +6,7 @@ import styles from "./Hero.module.css"
 export default function Hero() {
     return(
         <>
-            <div className="mt-[230px]">
+            <div className="mt-230">
                 <Layout>
                     <div className="font-medium text-36 lg:text-72 max-w-910 mx-auto">
                         <div className="text-near-black mx-auto w-200 lg:w-full text-near-black-500 text-center">
