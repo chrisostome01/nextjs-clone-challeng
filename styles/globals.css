@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply font-primary;
+}
+
+html,body {
+  @apply scroll-smooth overflow-x-hidden;
+}
